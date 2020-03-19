@@ -1,0 +1,12 @@
+name: zimbabwe_cyclone
+title: zimbabwe_cyclone
+username:
+account: benmwasambo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1922400
+bundleId: 2893415
+url: https://benmwasambo.shinyapps.io/zimbabwe_cyclone/
+when: 1584523812.54759
+asMultiple: FALSE
+asStatic: FALSE
